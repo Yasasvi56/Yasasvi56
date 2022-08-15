@@ -1,4 +1,4 @@
- 👋 **Hi there, I’m Tiromika!**     <img src=https://user-images.githubusercontent.com/61499237/184676358-ef175e53-2564-454d-8e22-ac20a79a3692.gif align="right" height="450" width="450">
+ 👋 **Hi there, I’m Tiromika!**     <img src=https://user-images.githubusercontent.com/61499237/184676358-ef175e53-2564-454d-8e22-ac20a79a3692.gif align="right" height="400" width="400">
 - 👀 I’m interested in ...      
 - 🔭 I’m currently working on …
 - 🌱 I’m currently learning …
@@ -8,6 +8,10 @@
 - 📫 How to reach me: …
 - 😄 Pronouns: …
 - ⚡ Fun fact: …
+
+
+
+
 
  **My skill set**
 <div>
