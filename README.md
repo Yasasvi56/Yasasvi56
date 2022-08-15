@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Tiromika Yasasvi
-- 👀 I’m interested in ...                               ![git](https://user-images.githubusercontent.com/61499237/184676358-ef175e53-2564-454d-8e22-ac20a79a3692.gif)
 
+- 👋 Hi, I’m Tiromika Yasasvi
+- 👀 I’m interested in ...        <img src=https://user-images.githubusercontent.com/61499237/184676358-ef175e53-2564-454d-8e22-ac20a79a3692.gif align="right" height="500" width="500">
 - 🔭 I’m currently working on …
 - 🌱 I’m currently learning …
 - 👯 I’m looking to collaborate on …
