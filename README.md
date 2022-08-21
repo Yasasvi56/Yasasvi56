@@ -1,13 +1,19 @@
- 👋 **Hi there, I’m Tiromika!**     <img src=https://user-images.githubusercontent.com/61499237/184676358-ef175e53-2564-454d-8e22-ac20a79a3692.gif align="right" height="400" width="400">
-- 👀 I’m interested in ...      
-- 🔭 I’m currently working on …
-- 🌱 I’m currently learning …
-- 👯 I’m looking to collaborate on …
-- 🤔 I’m looking for help with …
-- 💬 Ask me about …
-- 📫 How to reach me: …
-- 😄 Pronouns: …
-- ⚡ Fun fact: …
+<h2 align="center"> Hi 👋, I'm <a href="https://linkedin.com/in/tiromika-yasasvi">Tiromika Yasasvi</a></h2>
+<h3 align="center"> Software Engineer </h3><img src=https://user-images.githubusercontent.com/61499237/184676358-ef175e53-2564-454d-8e22-ac20a79a3692.gif align="right" height="400" width="400">
+
+- 👩‍💻 &ensp;I graduated with an honours degree in IT from SLIIT
+- ⚡ &ensp;I have been working for two years in the IT industry
+- 👀 &ensp;I’m currently working on .NET/SQL ❤️ projects
+- 🌱 &ensp;I also learned ReactJS/AngularJS
+- 👯 &ensp;I’m looking to collaborate with other engineers and managers
+- 📫 &ensp;How to reach me: [**Email**][email]
+
+### Connect With Me
+
+[<img align="left" alt="Tiromika Yasavi | LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+
+<br />
+<br />
 <br><br><br><br><br><br><br><br>
 ---
 
