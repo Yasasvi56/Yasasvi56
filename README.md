@@ -11,7 +11,7 @@
 - ⚡ &ensp;I have been working for two years in the IT industry<br/>
 - 👀 &ensp;I’m currently working on .NET/SQL ❤️ projects<br/>
 - 🌱 &ensp;I also learned ReactJS/AngularJS<br/>
-- 👯 &ensp;I’m looking to collaborate with other engineers and managers<br/>
+- 👯 &ensp;I’m looking to collaborate with other engineers<br/>
 - 📫 &ensp;How to reach me: <a href="mailto:yasavi967@gmail.com"> Email </a>
 
 ### Connect With Me
