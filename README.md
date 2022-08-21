@@ -1,12 +1,18 @@
 <h2 align="center"> Hi 👋, I'm <a href="https://linkedin.com/in/tiromika-yasasvi">Tiromika Yasasvi</a></h2>
-<h3 align="center"> Software Engineer </h3><img src=https://user-images.githubusercontent.com/61499237/184676358-ef175e53-2564-454d-8e22-ac20a79a3692.gif align="left" height="200" width="200">
-
-- 👩‍💻 &ensp;I graduated with an honours degree in IT from SLIIT
-- ⚡ &ensp;I have been working for two years in the IT industry
-- 👀 &ensp;I’m currently working on .NET/SQL ❤️ projects
-- 🌱 &ensp;I also learned ReactJS/AngularJS
-- 👯 &ensp;I’m looking to collaborate with other engineers and managers
-- 📫 &ensp;How to reach me: [**Email**][email]
+<h3 align="center"> Software Engineer </h3>
+<table align="center">
+<tr>
+<td>
+  <img src=https://user-images.githubusercontent.com/61499237/184676358-ef175e53-2564-454d-8e22-ac20a79a3692.gif height="300" width="400" >
+</td>
+<td>
+<br />
+- 👩‍💻 &ensp;I graduated with an honours degree in IT from SLIIT<br/>
+- ⚡ &ensp;I have been working for two years in the IT industry<br/>
+- 👀 &ensp;I’m currently working on .NET/SQL ❤️ projects<br/>
+- 🌱 &ensp;I also learned ReactJS/AngularJS<br/>
+- 👯 &ensp;I’m looking to collaborate with other engineers and managers<br/>
+- 📫 &ensp;How to reach me: [**Email**][email]<br/>
 
 ### Connect With Me
 
@@ -14,11 +20,15 @@
 
 <br />
 <br />
+
 [linkedin]: https://linkedin.com/in/tiromika-yasasvi
 [email]: mailto:yasavi967@gmail.com
-<br><br>
 
-### :hammer_and_wrench: Languages and Tools :
+<br />
+</td>
+</tr>
+</table>
+<h3>🛠️ Languages and Tools : </h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="angularjs" alt="angularjs" width="60" height="60"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
