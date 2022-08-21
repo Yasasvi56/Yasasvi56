@@ -14,8 +14,7 @@
 
 <br />
 <br />
-<br><br><br><br>
----
+<br><br>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -43,7 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle" **alt="oracle" width="40" height="40"/>
 </div> 
 
----
+
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yasasvi56&theme=dark&background=000000)](https://git.io/streak-stats)
