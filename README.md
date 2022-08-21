@@ -12,7 +12,7 @@
 - 👀 &ensp;I’m currently working on .NET/SQL ❤️ projects<br/>
 - 🌱 &ensp;I also learned ReactJS/AngularJS<br/>
 - 👯 &ensp;I’m looking to collaborate with other engineers and managers<br/>
-- 📫 &ensp;How to reach me: [**Email**][email]<br/>
+- 📫 &ensp;How to reach me: <a href="mailto:yasavi967@gmail.com"> Email </a>
 
 ### Connect With Me
 
@@ -22,7 +22,6 @@
 <br />
 
 [linkedin]: https://linkedin.com/in/tiromika-yasasvi
-[email]: mailto:yasavi967@gmail.com
 
 <br />
 </td>
