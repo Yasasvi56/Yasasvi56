@@ -1,5 +1,5 @@
 <h2 align="center"> Hi 👋, I'm <a href="https://linkedin.com/in/tiromika-yasasvi">Tiromika Yasasvi</a></h2>
-<h3 align="center"> Software Engineer </h3><img src=https://user-images.githubusercontent.com/61499237/184676358-ef175e53-2564-454d-8e22-ac20a79a3692.gif align="right" height="400" width="400">
+<h3 align="center"> Software Engineer </h3><img src=https://user-images.githubusercontent.com/61499237/184676358-ef175e53-2564-454d-8e22-ac20a79a3692.gif align="right" height="300" width="300">
 
 - 👩‍💻 &ensp;I graduated with an honours degree in IT from SLIIT
 - ⚡ &ensp;I have been working for two years in the IT industry
